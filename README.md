@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Jithin 👋
+
+I’m a software developer, but I care just as much about how a business works as I do about the code. I don't like building features in a bubble—I want to know why we're building them, how they help the company grow, and how they actually make the user's life easier.
+
+Basically, I write code to solve real business problems. I love exploring how things work behind the scenes (from marketing to daily operations) so I can build better, more useful software on the front lines.
 
 <!--
 **jithin-raj-rv/jithin-raj-rv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
