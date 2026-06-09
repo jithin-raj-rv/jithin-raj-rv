@@ -4,8 +4,7 @@ I’m a software developer, but I care just as much about how a business works a
 
 Basically, I write code to solve real business problems. I love exploring how things work behind the scenes (from marketing to daily operations) so I can build better, more useful software on the front lines.
 
-Currently working on a stealth startup project using Flutter and Supabase..
-
+Currently working on a stealth startup mini project using Flutter and Supabase.. 
 <!--
 **jithin-raj-rv/jithin-raj-rv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
